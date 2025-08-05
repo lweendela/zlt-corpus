@@ -54,7 +54,7 @@ To ensure a smooth and collaborative workflow, please follow these guidelines:
 
 Here is a list of the available language pairs you can contribute to.
 
-1.  **English to Chitonga:** `git@github.com:your-username/zlt-corpus-EnToi.git`
+1.  **English to Chitonga:** [zlt-corpus-EnTo](git@github.com:your-username/zlt-corpus-EnToi.git)
 
 ## Future Plans
 
